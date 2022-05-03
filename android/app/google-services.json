@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727866680831",
+    "project_id": "egyhealth-ae5d7",
+    "storage_bucket": "egyhealth-ae5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727866680831:android:350c6f06fdf4d5e568b3ca",
+        "android_client_info": {
+          "package_name": "com.example.egy_health_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727866680831-ckv9npqk0lamep9ito0ofk2kr908k0pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrHokK5yfraquiQuLwpmnK0LJ2w9nTjPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727866680831-ckv9npqk0lamep9ito0ofk2kr908k0pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
